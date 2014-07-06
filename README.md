@@ -1,4 +1,4 @@
 MGP platform public docs
 ========================
 
-See the [wiki](wiki)
+See the [wiki](https://github.com/fixxli/Public/wiki)
